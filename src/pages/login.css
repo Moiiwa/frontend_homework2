@@ -1,0 +1,16 @@
+.LoginFormContainer {
+    height: 400px;
+    width: 250px;
+    background-color: cornflowerblue;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+}
+.RegisterFormContainer {
+    height: 400px;
+    width: 250px;
+    background-color: cornflowerblue;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+}

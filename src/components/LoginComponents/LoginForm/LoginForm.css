@@ -1,0 +1,16 @@
+.LoginForm{
+    height: 100%;
+    width: 100%;
+}
+
+.Submit-button{
+    background-color: white;
+    text-align: center;
+}
+
+.invalid-feedback{
+    width: 50%;
+    color: red;
+    font-size: 15px;
+    margin: auto;
+}

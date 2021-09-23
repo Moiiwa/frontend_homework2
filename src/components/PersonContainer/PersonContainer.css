@@ -1,0 +1,6 @@
+.PersonContainer{
+    display: grid;
+    grid-template: "a b c d"
+                   "e f g h"
+                   "i j k l";
+}
